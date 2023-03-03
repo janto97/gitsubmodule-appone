@@ -1,0 +1,3 @@
+[submodule "gitsubmodule-lib-one"]
+	path = gitsubmodule-lib-one
+	url = https://github.com/janto97/gitsubmodule-lib-one.git
